@@ -1,4 +1,4 @@
-# Remove-Duplikat-List-in-Python
+# Remove-Duplicates
 
 this is a simple program of python
 
