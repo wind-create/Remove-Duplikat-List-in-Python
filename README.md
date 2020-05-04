@@ -4,5 +4,5 @@ this is a simple program of python
 
 # tools: 
 - install python
-- Python Pacakage Manager 
+- Python Package Manager 
 - jupyter notebook
